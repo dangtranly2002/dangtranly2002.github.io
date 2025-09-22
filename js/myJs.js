@@ -2,7 +2,7 @@ const textConfig = {
   text1: "He luu cậu!",
   text2: "Tớ biết bản thân không giỏi nói những lời ngọt ngào, cũng không mặn mà trong cách thể hiện, chỉ biết dùng hành động để chứng minh. Mong là đằng ấy sẽ cảm nhận được 💖. Vì sợ chậm tay thì chẳng còn cơ hội bên bạn vậy nên tớ có điều này muốn hỏi cậu nhớ phải trả lời thật lòng nhaaa.",
   text3: "Liệu đằng ấy có thể cho mình cơ hội chứ",
-  text4: "Nếu bạn ko trả lời mà thoát ra tức là đồng ý với tớ rùi đó nha :v",
+  text4: "Hãy cho tớ cơ hội để có thể đưa bạn đi chơi vào dịp trung thu này nhé. Nếu bạn ko trả lời mà thoát ra tức là đồng ý với tớ rùi đó nha :v",
   text5: "Cậu mơ à???",
   text6: "Đồng ý nhaaaaaaa <3",
   text7: "Lí do cậu thích tớ đi :vvvv",
