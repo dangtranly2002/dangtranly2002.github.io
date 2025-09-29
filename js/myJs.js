@@ -1,16 +1,16 @@
 const textConfig = {
   text1: "He luu chị!",
-  text2: "E biết bản thân không giỏi nói những lời ngọt ngào, cũng không mặn mà trong cách thể hiện, chỉ biết dùng hành động để chứng minh. Mong là chị sẽ cảm nhận được 💖. Vì e muốn đượ.",
-  text3: "Liệu rằng chị có thể làm người yêu e được không😳",
-  text4: "Hãy cho e cơ hội để có thể đưa chị đi chơi vào dịp trung thu này nhé. Nếu chị ko trả lời mà thoát ra tức là đồng ý với e rùi đó nha :v",
+  text2: "Em biết mình không giỏi nói lời ngọt ngào, cũng không khéo thể hiện bằng lời, chỉ mong chị cảm nhận được qua những gì em làm 💖. Vì em thật sự muốn được yêu thương và chăm sóc cho chị. Chị cho em cơ hội được đưa chị đi chơi Trung thu này, và cả những dịp lễ khác nữa nhé.",
+  text3: "Liệu rằng chị có thể làm người yêu em được không😳",
+  text4: "Nếu chị ko trả lời mà thoát ra tức là đồng ý với em rùi đó nha :v",
   text5: "Emmm mơ à???",
-  text6: "C đồng ý nhaaaaaaa <3",
-  text7: "Lí do c thích e đi :vvvv",
+  text6: "Chị đồng ý nhaaaaaaa <3",
+  text7: "Lí do chị thích em đi :vvvv",
   text8: "Gửi cho emmm <3",
   text9: "",
-  text10: "E biết mà hẹ hẹ hẹ. Yêu c 300.000",
+  text10: "Em biết mà hẹ hẹ hẹ. Yêu c 300.000",
   text11:
-    "Cảm ơn c đã cho e cơ hội, e sẽ cố gắng để cho c thấy lựa chọn của mình là không sai 😚",
+    "Cảm ơn chị đã đồng ý, em sẽ cố gắng để cho chị thấy lựa chọn của mình là không sai 😚",
   text12: "Okii lunn <3",
 };
 
